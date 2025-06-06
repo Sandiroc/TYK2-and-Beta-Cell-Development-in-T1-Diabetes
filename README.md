@@ -5,7 +5,7 @@ This pipeline was built to evaluate the impact of TYK2 knockout on β-cell diffe
 
 The TYK2 gene is a known susceptibility marker for type 1 diabetes. Chandra et al. demonstrate that TYK2 influences β-cell maturation and the transcriptional response to interferon-α (IFN-α), a key inflammatory cytokine implicated in onset type 1 diabetes. This pipeline aims to:
 
-- Reproduce and visualize the core differential gene expression (DGE) results from the study.
+- Reproduce and visualize the core differential gene expression results from the study.
 - Validate the disruption of antigen presentation pathways (e.g., MHC Class I, PSMB subunits) in TYK2 knockout cells treated with IFN-α.
 - Provide modular & reproducible analysis that supports hypothesis-driven exploration of β-cell immunogenicity in type 1 diabetes.
 
